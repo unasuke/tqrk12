@@ -1,6 +1,4 @@
-# TODO: スライドのタイトル
-
-TODO: スライドの説明
+# TokyuRubyKaigi12
 
 ## 作者向け
 
